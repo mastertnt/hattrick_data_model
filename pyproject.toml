@@ -16,5 +16,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/mastertnt/hattrick_data_model"
+Issues = "https://github.com/mastertnt/hattrick_data_model/issues"
