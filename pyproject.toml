@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=61.0"]
+requires = ["setuptools>=75.5"]
 build-backend = "setuptools.build_meta"
 
 [project]
@@ -7,7 +7,7 @@ name = "hattrick_data_model"
 version = "0.1.0"
 authors = [  {name = "nby", email = "nby.dev@gmail.com"} ]
 description = "Data model for Hattrick"
-reamde = "README.md"
+readme = "README.md"
 requires-python = ">=3.12"
 classifiers = [
     "Development Status :: 3 - Alpha",
